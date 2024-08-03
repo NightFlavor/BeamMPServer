@@ -1,0 +1,18 @@
+[General]
+Name = "Lukas Server"
+Port = 30814
+AuthKey = "6053e99f-9cfd-4620-9e34-e115eb26616f\t"
+LogChat = true
+Tags = "Freeroam"
+Debug = false
+Private = true
+MaxCars = 50
+MaxPlayers = 10
+Map = "levels/hirochi_raceway/info.json"
+Description = "BeamMP Default Description"
+ResourceFolder = "Resources"
+
+[Misc]
+ImScaredOfUpdates = false
+SendErrorsShowMessage = true
+SendErrors = true

@@ -1,0 +1,21 @@
+[31/07/24 22:46:33] [INFO] BeamMP Server v3.4.1
+[31/07/24 22:46:33] [INFO] Loaded 2 Mods
+[31/07/24 22:46:33] [INFO] Vehicle data network online on port 30814 with a Max of 10 Clients
+[31/07/24 22:46:33] [INFO] Vehicle event network online
+[31/07/24 22:46:34] [INFO] Server up-to-date!
+[31/07/24 22:46:34] [INFO] PluginMonitor started
+[31/07/24 22:46:39] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
+[31/07/24 22:47:11] [INFO] Identifying new ClientConnection...
+[31/07/24 22:47:11] [INFO] Identification success
+[31/07/24 22:47:11] [INFO] Client connected
+[31/07/24 22:47:11] [INFO] Assigned ID 0 to lerak
+[31/07/24 22:47:12] [INFO] lerak : Connected
+[31/07/24 22:47:21] [INFO] lerak is now synced!
+[31/07/24 22:50:55] [INFO] Identifying new ClientConnection...
+[31/07/24 22:50:55] [INFO] Identification success
+[31/07/24 22:50:55] [INFO] Client connected
+[31/07/24 22:50:55] [INFO] Assigned ID 1 to NightFlavor
+[31/07/24 22:50:57] [INFO] NightFlavor : Connected
+[31/07/24 22:51:04] [INFO] NightFlavor is now synced!
+[31/07/24 23:35:27] [INFO] NightFlavor Connection Terminated
+[31/07/24 23:35:29] [INFO] lerak Connection Terminated
